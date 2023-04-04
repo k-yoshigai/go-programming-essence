@@ -1,3 +1,3 @@
-module github.com/k-yoshigai/go-programming-essence
+module github.com/kyoshigai/go-programming-essence
 
 go 1.20
